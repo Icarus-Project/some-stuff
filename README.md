@@ -3,8 +3,7 @@ Some personal project end exercise.
 
 
 hex_base64.py
-
-  -Richiede una stringa esadecimale e la restituisce in base64 - Decodifica hex - base64
+  - Richiede una stringa esadecimale e la restituisce in base64 - Decodifica hex - base64
   
 
 xor.py
